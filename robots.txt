@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ootaewuuy.sundaysee.cn/sitemap.xml
